@@ -1,0 +1,7 @@
+parallel\SignIn_StepDef.class
+parallel\ForgotPassword_StepDef.class
+parallel\ProductSearch_PreLogin_StepDef.class
+parallel\AppHooks.class
+parallel\Background_StepDef.class
+parallel\CreateAnAccount_StepDef.class
+parallel\ParallelRun.class
